@@ -1,7 +1,7 @@
 # sfm_tools
 A collection of tools to geotag and process photos for Structure from Motion (SfM)
 
-![dji_exif_loc.py in GoogleEarth](/images/googleeart_example.PNG)
+![dji_exif_loc.py in GoogleEarth](/images/googleearth_example.PNG)
 
 ## Most useful/mature tools:
 * `cam_comparison_planning.py` - comparison of different cameras at different altitudes (FOV, pixel ground resolution, etc.)
